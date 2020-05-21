@@ -1,3 +1,16 @@
+html {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+footer {
+	padding: 25px;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
 /* This style sheet is taken from  https://www.w3schools.com/howto/howto_js_tabs.asp> */
 
 /* Style the tab */
